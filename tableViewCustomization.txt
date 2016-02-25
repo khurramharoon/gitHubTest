@@ -1,0 +1,12 @@
+1) customizing the header and footer of a table view in storyboard:
+
+http://www.ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift
+
+2) header view in story board
+
+http://stackoverflow.com/questions/7841167/table-header-views-in-storyboards
+
+3) Better answer than (1)
+
+http://stackoverflow.com/questions/9219234/how-to-implement-custom-table-view-section-headers-and-footers-with-storyboard
+
